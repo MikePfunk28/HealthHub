@@ -1,5 +1,8 @@
 # HealthHub
 
+<img width="1793" height="936" alt="image" src="https://github.com/user-attachments/assets/5c2f2cab-23bd-48a9-bd21-f2771bb5e421" />
+
+
 A comprehensive healthcare management platform built with Next.js 14, Express.js, and modern web technologies. Features a responsive dashboard for health tracking, AI-powered insights, appointment management, and secure patient data handling.
 
 ## Features
